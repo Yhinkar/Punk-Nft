@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "nft-platform",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"slither.solcPath": "",
+		"slither.hiddenDetectors": []
+	}
+}
